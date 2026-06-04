@@ -13,11 +13,13 @@ games, and contributing to academic research on LLMs.
 
 ### 🚀 Featured Projects
 
+**[Game of Amazons AI Agent](https://github.com/PrashaantM/GameOfAmazons.git)** :  Java minimax agent with alpha-beta pruning that placed 14th class-wide in a competitive AI tournament. Reduced game tree evaluation by ~60%.
+`Java` `Minimax` `Alpha-Beta Pruning`
+
+
 **[Full-Stack Job Portal](https://github.com/COSC-360-Team-21/job-portal)** :  Role based job portal with JWT auth, Swagger docs, Playwright E2E tests, and a Dockerized 3 service deployment. CI/CD via GitHub Actions.
 `React` `Node.js` `MongoDB` `Docker` `Playwright`
 
-**[Game of Amazons AI Agent](https://github.com/PrashaantM/GameOfAmazons.git)** :  Java minimax agent with alpha-beta pruning that placed 14th class-wide in a competitive AI tournament. Reduced game tree evaluation by ~60%.
-`Java` `Minimax` `Alpha-Beta Pruning`
 
 **[Super Bug Zapper](https://github.com/PrashaantM/BugZapper.git)** :  3D browser game built from scratch in WebGL + custom GLSL shaders, no external 3D libraries. 60 FPS with adaptive difficulty.
 `WebGL` `GLSL` `JavaScript`
