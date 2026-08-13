@@ -125,7 +125,7 @@ Contributed to a Systematic Literature Review under **Prof. AKM Amanat Ullah** a
 </td>
 <td width="33%" valign="middle" align="center">
 
-<a href="#"><img height="200" src="https://streak-stats.demolab.com/?user=PrashaantM&background=45,6a11cb,2575fc&ring=ffd700&fire=ffd700&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=e8f0ff&dates=cfd8ff&border=2575fc" alt="Prashaant's GitHub streak"/></a>
+<a href="#"><img height="200" src="https://streak-stats.demolab.com/?user=PrashaantM&card_width=370&background=45,6a11cb,2575fc&ring=ffd700&fire=ffd700&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=e8f0ff&dates=cfd8ff&border=2575fc" alt="Prashaant's GitHub streak"/></a>
 
 </td>
 </tr>
