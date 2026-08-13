@@ -99,15 +99,27 @@ Contributed to a Systematic Literature Review under **Prof. AKM Amanat Ullah** a
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+### 🏆 True Contribution Totals
+
+<sub>892 commits · 32 PRs · 6 issues tracked live by GitHub&nbsp;&nbsp;+&nbsp;&nbsp;519 commits · 91 PRs · 72 issues from forked coursework repos GitHub can't track (verified manually via the GitHub API)</sub>
+
+<br/>
+
+<a href="#"><img height="46" src="https://img.shields.io/badge/Commits-1%2C411-6a11cb?style=for-the-badge" /></a>
+<a href="#"><img height="46" src="https://img.shields.io/badge/Pull_Requests-123-2575fc?style=for-the-badge" /></a>
+<a href="#"><img height="46" src="https://img.shields.io/badge/Issues-78-8a2be2?style=for-the-badge" /></a>
+
+</div>
+
+<br/>
+
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
 <a href="#"><img width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=PrashaantM&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" alt="Prashaant's GitHub stats"/></a>
-
-[![Commits](https://img.shields.io/badge/Commits-1%2C411-6a11cb?style=for-the-badge)](#)
-[![Pull Requests](https://img.shields.io/badge/Pull_Requests-123-2575fc?style=for-the-badge)](#)
-[![Issues](https://img.shields.io/badge/Issues-78-8a2be2?style=for-the-badge)](#)
 
 </td>
 <td width="33%" valign="top" align="center">
