@@ -32,15 +32,15 @@ I'm a 4th-year Computer Science student at **UBC Okanagan**, currently finishing
 
 ---
 
-## 🚧 Currently Building
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="100%">
 
-### 🎓 [MCQ Exam Management Platform](https://github.com/PrashaantM/Generate67-capstone-team-6) — UBCO COSC 499 Capstone (Team of 6)
+### ✅ [MCQ Exam Management Platform](https://github.com/PrashaantM/Generate67-capstone-team-6) — UBCO COSC 499 Capstone (Team of 6)
 
-A web platform for instructors to build paper exams from question banks, generate randomized variants to deter cheating, export print-ready papers, upload scanner/OMR results, hand-grade written answers, and review exam analytics — with **no student login required**.
+A web platform for instructors to build paper exams from question banks, generate randomized variants to deter cheating, export print-ready papers, upload scanner/OMR results, hand-grade written answers, and review exam analytics — with **no student login required**. Built for the **Earth, Environmental and Geographic Sciences (EESS) Dept** at UBC Okanagan; this repo is a fork of the original team project, hosted in the `UBCO-COSC499-S2026` GitHub organization.
 
 **[🔗 Live demo (interactive, mock backend)](https://prashaantm.github.io/Generate67-capstone-team-6/)**
 
@@ -48,18 +48,11 @@ A web platform for instructors to build paper exams from question banks, generat
 
 </td>
 </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
 <tr>
 <td width="50%">
 
 <a href="https://github.com/PrashaantM/GameOfAmazons">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashaantM&repo=GameOfAmazons&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=PrashaantM&repo=GameOfAmazons&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" />
 </a>
 
 **[🎮 Live demo](https://prashaantm.github.io/GameOfAmazons/)** — Java minimax agent (4-person team, COSC 322) with alpha-beta pruning that cut evaluated game-tree branches ~60% and placed **14th class-wide** in a competitive AI tournament, using BFS-based territory heuristics.
@@ -70,7 +63,7 @@ A web platform for instructors to build paper exams from question banks, generat
 <td width="50%">
 
 <a href="https://github.com/PrashaantM/Malware-Containment-Research">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashaantM&repo=Malware-Containment-Research&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=PrashaantM&repo=Malware-Containment-Research&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" />
 </a>
 
 Network-science research (COSC 421): modeled 125K+ NSL-KDD records as weighted directed graphs and ran a weighted SIR outbreak simulation across 8 centrality measures — PageRank-based node removal outperformed degree-based containment by **~15–20%**.
@@ -83,7 +76,7 @@ Network-science research (COSC 421): modeled 125K+ NSL-KDD records as weighted d
 <td width="50%">
 
 <a href="https://github.com/PrashaantM/BugZapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashaantM&repo=BugZapper&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=PrashaantM&repo=BugZapper&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" />
 </a>
 
 3D browser game built from scratch in raw **WebGL + custom GLSL shaders** — zero external 3D libraries. Runs at 60 FPS with adaptive difficulty scaling.
@@ -94,7 +87,7 @@ Network-science research (COSC 421): modeled 125K+ NSL-KDD records as weighted d
 <td width="50%">
 
 <a href="https://github.com/PrashaantM/job-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrashaantM&repo=job-portal&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=PrashaantM&repo=job-portal&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" />
 </a>
 
 Role-based job portal (seeker / employer / admin) with JWT auth, Swagger/OpenAPI docs, Playwright E2E tests, and a Dockerized 3-service deployment with CI/CD via GitHub Actions.
@@ -117,12 +110,10 @@ Contributed to a Systematic Literature Review under **Prof. AKM Amanat Ullah** a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrashaantM&show_icons=true&count_private=true&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashaantM&layout=compact&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&border_color=2575fc&hide=html" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=PrashaantM&show_icons=true&count_private=true&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=PrashaantM&layout=compact&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&border_color=2575fc&hide=html" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=PrashaantM&background=45,6a11cb,2575fc&ring=ffd700&fire=ffd700&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=e8f0ff&dates=cfd8ff&border=2575fc" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrashaantM&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
