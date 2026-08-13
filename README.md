@@ -119,6 +119,21 @@ Contributed to a Systematic Literature Review under **Prof. AKM Amanat Ullah** a
 </tr>
 </table>
 
+<div align="center">
+
+**True Contribution Totals**
+<sub>GitHub's public stats above can't count activity in <em>forked</em> repos — a documented GitHub limitation (fork commits/PRs/issues never enter the contribution graph, private or public). A large share of my coursework/team work lives in forks of GitHub Classroom templates, so I total it manually below.</sub>
+
+<br/>
+
+[![Commits](https://img.shields.io/badge/Commits-1%2C411-6a11cb?style=for-the-badge)](#)
+[![Pull Requests](https://img.shields.io/badge/Pull_Requests-123-2575fc?style=for-the-badge)](#)
+[![Issues](https://img.shields.io/badge/Issues-78-8a2be2?style=for-the-badge)](#)
+
+<sub>892 commits · 32 PRs · 6 issues counted live by GitHub&nbsp;&nbsp;+&nbsp;&nbsp;519 commits · 91 PRs · 72 issues verified manually via the GitHub API from forked repos (`UBCO-COSC499-S2026/capstone-team-6`, `UBCO-COSC499-S2026/intro-to-git-and-github`, `UBCO-COSC499-S2026/review-pull-requests`, `UBCO-COSC328-W2025-T1` assignment forks)</sub>
+
+</div>
+
 ---
 
 <div align="center">
