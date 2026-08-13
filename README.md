@@ -103,7 +103,7 @@ Contributed to a Systematic Literature Review under **Prof. AKM Amanat Ullah** a
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="#"><img width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=PrashaantM&show_icons=true&hide_rank=true&count_private=true&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" alt="Prashaant's GitHub stats"/></a>
+<a href="#"><img width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=PrashaantM&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" alt="Prashaant's GitHub stats"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
