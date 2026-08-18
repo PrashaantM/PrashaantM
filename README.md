@@ -15,9 +15,23 @@
 
 </div>
 
+## 🌐 Check Out My Website
+
+<div align="center">
+
+<a href="https://prashaantm.github.io/Portfolio-Website/">
+  <img width="600" src="https://prashaantm.github.io/Portfolio-Website/og-image.png" alt="Prashaant Mudgala Portfolio preview" />
+</a>
+
+**[prashaantm.github.io/Portfolio-Website](https://prashaantm.github.io/Portfolio-Website/)**
+
+</div>
+
+---
+
 ## 🧬 About Me
 
-I'm a Computer Science student at **UBC Okanagan**, currently finishing my capstone and open to **Co-op / New Grad Software Developer** roles. I work across the stack — full-stack web apps, AI search agents, low-level graphics (raw WebGL/GLSL), and network-science research on malware containment.
+I'm a Computer Science student at **UBC Okanagan**, currently finishing my capstone and open to **Co-op / New Grad Software Developer** roles. I work across the stack: full-stack web apps, AI search agents, low-level graphics (raw WebGL/GLSL), and network-science research on malware containment.
 
 <div align="center">
 
@@ -34,7 +48,7 @@ I'm a Computer Science student at **UBC Okanagan**, currently finishing my capst
 
 <a href="https://github.com/PrashaantM/Generate67-capstone-team-6"><img width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=PrashaantM&repo=Generate67-capstone-team-6&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" alt="Generate67-capstone-team-6 repo card" /></a>
 
-**[🔗 Live demo (interactive, mock backend)](https://prashaantm.github.io/Generate67-capstone-team-6/)** — A web platform for instructors to build paper exams from question banks, generate randomized variants to deter cheating, export print-ready papers, upload scanner/OMR results, hand-grade written answers, and review exam analytics — with **no student login required**. Developed as part of the UBC Okanagan COSC 499 capstone project (team of 6) for the **Earth, Environmental and Geographic Sciences (EESS) Department**, hosted in their GitHub organization.
+**[🔗 Live demo (interactive, mock backend)](https://prashaantm.github.io/Generate67-capstone-team-6/)**: A web platform for instructors to build paper exams from question banks, generate randomized variants to deter cheating, export print-ready papers, upload scanner/OMR results, hand-grade written answers, and review exam analytics. **No student login required**. Developed as part of the UBC Okanagan COSC 499 capstone project (team of 6) for the **Earth, Environmental and Geographic Sciences (EESS) Department**, hosted in their GitHub organization.
 
 `React` `Vite` `FastAPI` `PostgreSQL` `Docker Compose` `GitHub Actions`
 
@@ -46,7 +60,7 @@ I'm a Computer Science student at **UBC Okanagan**, currently finishing my capst
   <img width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=PrashaantM&repo=GameOfAmazons&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" alt="GameOfAmazons repo card" />
 </a>
 
-**[🎮 Live demo](https://prashaantm.github.io/GameOfAmazons/)** — Java minimax agent (4-person team, COSC 322) with alpha-beta pruning that cut evaluated game-tree branches ~60% and placed **14th class-wide** in a competitive AI tournament, using BFS-based territory heuristics.
+**[🎮 Live demo](https://prashaantm.github.io/GameOfAmazons/)**: Java minimax agent (4-person team, COSC 322) with alpha-beta pruning that cut evaluated game-tree branches ~60% and placed **14th class-wide** in a competitive AI tournament, using BFS-based territory heuristics.
 
 `Java` `Minimax` `Alpha-Beta Pruning` `BFS`
 
@@ -57,7 +71,7 @@ I'm a Computer Science student at **UBC Okanagan**, currently finishing my capst
   <img width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=PrashaantM&repo=Malware-Containment-Research&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" alt="Malware-Containment-Research repo card" />
 </a>
 
-Network-science research (COSC 421): modeled 125K+ NSL-KDD records as weighted directed graphs and ran a weighted SIR outbreak simulation across 8 centrality measures — PageRank-based node removal outperformed degree-based containment by **~15–20%**.
+Network-science research (COSC 421): modeled 125K+ NSL-KDD records as weighted directed graphs and ran a weighted SIR outbreak simulation across 8 centrality measures. PageRank-based node removal outperformed degree-based containment by **~15-20%**.
 
 `R` `igraph` `SIR Simulation` `Graph Theory`
 
@@ -70,7 +84,7 @@ Network-science research (COSC 421): modeled 125K+ NSL-KDD records as weighted d
   <img width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=PrashaantM&repo=BugZapper&bg_color=45,6a11cb,2575fc&title_color=ffffff&text_color=e8f0ff&icon_color=ffd700&border_color=2575fc" alt="BugZapper repo card" />
 </a>
 
-3D browser game built from scratch in raw **WebGL + custom GLSL shaders** — zero external 3D libraries. Runs at 60 FPS with adaptive difficulty scaling.
+3D browser game built from scratch in raw **WebGL + custom GLSL shaders**, zero external 3D libraries. Runs at 60 FPS with adaptive difficulty scaling.
 
 `WebGL` `GLSL` `JavaScript`
 
@@ -103,7 +117,7 @@ Contributed to a Systematic Literature Review under **Prof. AKM Amanat Ullah** a
 
 ### 🏆 True Contribution Totals
 
-<sub>1,411 commits · 123 PRs · 78 issues — 892 · 32 · 6 live on GitHub + 519 · 91 · 72 from forked repos (manual)</sub>
+<sub>1,411 commits · 123 PRs · 78 issues: 892 · 32 · 6 live on GitHub + 519 · 91 · 72 from forked repos (manual)</sub>
 
 <a href="#"><img height="46" src="https://img.shields.io/badge/Commits-1%2C411-6a11cb?style=for-the-badge" /></a>
 <a href="#"><img height="46" src="https://img.shields.io/badge/Pull_Requests-123-2575fc?style=for-the-badge" /></a>
